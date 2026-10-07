@@ -1,11 +1,33 @@
 {
-  "activeViewId" : "13a96d56-d558-4ea5-83f0-e19aeb4d72ea",
   "appPageId" : "b69a235d-b4a5-4993-a364-6eb00e4bf15f",
-  "configurationTags" : [ ],
-  "devName" : "Report_Builder",
-  "id" : "44721c77-4c4f-4f07-8407-8b51f59eb3f7",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "13a96d56-d558-4ea5-83f0-e19aeb4d72ea",
   "label" : "Report Builder",
-  "routeType" : "createreport",
-  "type" : "route",
-  "urlPrefix" : "createreport"
+  "regions" : [ {
+    "id" : "213f4312-330b-4b18-91a3-e5a4baae23d0",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "recordId" : "{!recordId}"
+      },
+      "componentName" : "forceCommunity:reportBuilder",
+      "id" : "20c21e57-7359-463b-941c-8f2a582b523e",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1478c034-74c0-43e8-b041-9d020d134f6b",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "95f0fab5-b19a-460d-a9cd-d75a6e58c8e8",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "createreport"
 }

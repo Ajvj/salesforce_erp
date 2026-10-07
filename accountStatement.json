@@ -1,29 +1,27 @@
 {
-  "appPageId" : "cf852a51-d71e-4bb5-a630-e437c81f941c",
+  "appPageId" : "a96da591-e141-41da-9482-69189eef079a",
   "componentName" : "siteforce:sldsOneColLayout",
   "dataProviders" : [ ],
-  "id" : "ddeb29e5-2f87-4998-a7c1-eeab08f7c968",
-  "label" : "Login Error",
+  "id" : "b2e9d4f7-8c35-4e02-af61-7d3b9c5e2081",
+  "label" : "Account Statement",
   "regions" : [ {
-    "id" : "fc1b63b9-afe9-4167-9312-9bd154b71eb6",
+    "id" : "07d4c9e2-3180-4357-a4b6-2c8041a375d6",
     "regionName" : "header",
     "type" : "region"
   }, {
     "components" : [ {
-      "componentAttributes" : {
-        "richTextValue" : "<div style=\"text-align: center;\">Invalid Page</div>"
-      },
-      "componentName" : "forceCommunity:richTextInline",
-      "id" : "8a620078-d77e-4501-add5-459f1ec68581",
+      "componentAttributes" : { },
+      "componentName" : "c:accountStatementPage",
+      "id" : "d4a1f6b9-0e57-4024-a183-9f5d1e7042a3",
       "renderPriority" : "NEUTRAL",
       "renditionMap" : { },
       "type" : "component"
     } ],
-    "id" : "d4b001d4-839a-46ae-abca-3ad41d8fdf2a",
+    "id" : "c3f0e5a8-9d46-4f13-b072-8e4c0d6f3192",
     "regionName" : "content",
     "type" : "region"
   }, {
-    "id" : "19ca4fe4-04b6-4fc8-baa9-2469454c057e",
+    "id" : "18e5daf3-4291-4468-a5c7-3d9152b486e7",
     "regionName" : "footer",
     "type" : "region"
   }, {
@@ -31,18 +29,18 @@
       "componentAttributes" : {
         "customHeadTags" : "",
         "description" : "",
-        "title" : "Login Error"
+        "title" : "Account Statement"
       },
       "componentName" : "forceCommunity:seoAssistant",
-      "id" : "e7bdc696-7d10-42a2-a63d-58a57d1241a1",
+      "id" : "f6c3b8d1-2079-4246-a3a5-1b7f309264c5",
       "renditionMap" : { },
       "type" : "component"
     } ],
-    "id" : "089f620a-8842-4606-84a9-b3037ae9417a",
+    "id" : "e5b2a7c0-1f68-4135-a294-0a6e2f8153b4",
     "regionName" : "sfdcHiddenRegion",
     "type" : "region"
   } ],
-  "themeLayoutType" : "Login",
+  "themeLayoutType" : "Inner",
   "type" : "view",
-  "viewType" : "login-error"
+  "viewType" : "custom-account-statement"
 }

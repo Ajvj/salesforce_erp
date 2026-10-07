@@ -1,48 +1,12 @@
 {
-  "appPageId" : "b69a235d-b4a5-4993-a364-6eb00e4bf15f",
-  "componentName" : "siteforce:sldsOneColLayout",
-  "dataProviders" : [ ],
-  "id" : "4f602eb5-24ec-4f60-950c-49232327688a",
+  "activeViewId" : "f0e8ed87-4eea-4266-a0ef-3b26cf44ce41",
+  "appPageId" : "2f597534-a74f-4196-9607-2d8512928256",
+  "configurationTags" : [ ],
+  "devName" : "Error",
+  "id" : "8999a9f1-7de2-47e9-ad6b-586746e2b149",
   "label" : "Error",
-  "regions" : [ {
-    "id" : "7416b536-ec0c-46fa-bff0-dfc8e8192aec",
-    "regionName" : "header",
-    "type" : "region"
-  }, {
-    "components" : [ {
-      "componentAttributes" : {
-        "richTextValue" : " <div class='slds-grid slds-grid--vertical slds-align--absolute-center slds-container--large'>   <div class='slds-align-middle slds-m-bottom--xx-large slds-m-top--xx-large' alt='Page not available'>      <img src='/sfsites/c/img/community/slds/messaging/illustration-page-not-found.png' class='slds-p-horizontal--large'/>   </div>   <h4 class='slds-text-align--center slds-text-heading--large slds-text-color--weak slds-m-bottom--small'>Page not available</h4>    <p class='slds-text-align--center slds-text-heading--medium slds-text-color--weak'>Maybe the page was deleted, the URL is incorrect, or something else went wrong. If you know the page exists but you still can’t get to it, please ask the community administrator for help.</p>  </div>"
-      },
-      "componentName" : "forceCommunity:htmlBlock",
-      "id" : "547bb13a-699f-4721-9098-89b76a17b360",
-      "renderPriority" : "NEUTRAL",
-      "renditionMap" : { },
-      "type" : "component"
-    } ],
-    "id" : "f5216573-0db6-4a24-89d7-fa0a5f4c4445",
-    "regionName" : "content",
-    "type" : "region"
-  }, {
-    "id" : "cfa110cd-6cdd-438d-b007-f23361d71433",
-    "regionName" : "footer",
-    "type" : "region"
-  }, {
-    "components" : [ {
-      "componentAttributes" : {
-        "customHeadTags" : "",
-        "description" : "",
-        "title" : "Error"
-      },
-      "componentName" : "forceCommunity:seoAssistant",
-      "id" : "2539d0e4-3889-4a28-8a7b-17435fe0dac1",
-      "renditionMap" : { },
-      "type" : "component"
-    } ],
-    "id" : "b16c1ce2-95b9-481b-b260-e45ab3464452",
-    "regionName" : "sfdcHiddenRegion",
-    "type" : "region"
-  } ],
-  "themeLayoutType" : "Inner",
-  "type" : "view",
-  "viewType" : "error"
+  "pageAccess" : "UseParent",
+  "routeType" : "error",
+  "type" : "route",
+  "urlPrefix" : "error"
 }

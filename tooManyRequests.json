@@ -1,11 +1,32 @@
 {
-  "activeViewId" : "9e757438-c83d-4cb3-9961-fa258380491f",
-  "appPageId" : "b69a235d-b4a5-4993-a364-6eb00e4bf15f",
-  "configurationTags" : [ "too-many-requests", "allow-in-static-site" ],
-  "devName" : "Too_Many_Requests",
-  "id" : "9c5be1f8-e245-4dc0-9d83-f5a3258f635f",
+  "appPageId" : "a96da591-e141-41da-9482-69189eef079a",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "8711562a-6b74-46f4-8d7c-f4f2689599e2",
   "label" : "Too Many Requests",
-  "routeType" : "too-many-requests",
-  "type" : "route",
-  "urlPrefix" : "too-many-requests"
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<div style='display: flex; align-items: center; flex-direction: column; margin: 60px 25px 30px 25px;'><div style='background-image: url(/sfsites/assets/Images/tooManyRequests/tooManyRequests.svg); background-size: contain; height: 350px; width: 100%; background-repeat: no-repeat; background-position: center;'></div></div><div style='margin: 0 25px; text-align: center;'><h1 class='slds-text-heading_large'>Looks like the site is experiencing higher than usual demand…</h1><p class='slds-text-heading_small'>Don't go anywhere. We'll redirect you in a moment.</p></div>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "1dd69d66-c52b-4ac0-ad44-11f43b24bc9a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : { },
+      "componentName" : "forceCommunity:autoRefresh",
+      "id" : "e6855187-528e-4674-bbd8-f8a255ab38e5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a30b2d6f-cf06-47f2-8ad5-2efbd424b6c9",
+    "regionName" : "content",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "ServiceNotAvailable",
+  "type" : "view",
+  "viewType" : "too-many-requests"
 }

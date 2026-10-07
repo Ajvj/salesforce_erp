@@ -1,29 +1,27 @@
 {
-  "appPageId" : "cf852a51-d71e-4bb5-a630-e437c81f941c",
+  "appPageId" : "a96da591-e141-41da-9482-69189eef079a",
   "componentName" : "siteforce:sldsOneColLayout",
   "dataProviders" : [ ],
-  "id" : "ddeb29e5-2f87-4998-a7c1-eeab08f7c968",
-  "label" : "Login Error",
+  "id" : "4c8e2a91-7b3f-4d16-a5e8-1f90c6d2b847",
+  "label" : "AI Insights",
   "regions" : [ {
-    "id" : "fc1b63b9-afe9-4167-9312-9bd154b71eb6",
+    "id" : "6e0a4c13-9d51-4f38-c70a-3b12e8f4d069",
     "regionName" : "header",
     "type" : "region"
   }, {
     "components" : [ {
-      "componentAttributes" : {
-        "richTextValue" : "<div style=\"text-align: center;\">Invalid Page</div>"
-      },
-      "componentName" : "forceCommunity:richTextInline",
-      "id" : "8a620078-d77e-4501-add5-459f1ec68581",
+      "componentAttributes" : { },
+      "componentName" : "c:aiInsightsPage",
+      "id" : "802c6e35-1f73-4150-e92c-5d34a0b6f281",
       "renderPriority" : "NEUTRAL",
       "renditionMap" : { },
       "type" : "component"
     } ],
-    "id" : "d4b001d4-839a-46ae-abca-3ad41d8fdf2a",
+    "id" : "7f1b5d24-0e62-4049-d81b-4c23f9a5e170",
     "regionName" : "content",
     "type" : "region"
   }, {
-    "id" : "19ca4fe4-04b6-4fc8-baa9-2469454c057e",
+    "id" : "913d7f46-2084-4261-fa3d-6e45b1c70392",
     "regionName" : "footer",
     "type" : "region"
   }, {
@@ -31,18 +29,18 @@
       "componentAttributes" : {
         "customHeadTags" : "",
         "description" : "",
-        "title" : "Login Error"
+        "title" : "AI Insights"
       },
       "componentName" : "forceCommunity:seoAssistant",
-      "id" : "e7bdc696-7d10-42a2-a63d-58a57d1241a1",
+      "id" : "b35f9168-4206-4483-bc5f-8067d3e92514",
       "renditionMap" : { },
       "type" : "component"
     } ],
-    "id" : "089f620a-8842-4606-84a9-b3037ae9417a",
+    "id" : "a24e8057-3195-4372-ab4e-7f56c2d81403",
     "regionName" : "sfdcHiddenRegion",
     "type" : "region"
   } ],
-  "themeLayoutType" : "Login",
+  "themeLayoutType" : "Inner",
   "type" : "view",
-  "viewType" : "login-error"
+  "viewType" : "custom-ai-insights"
 }
