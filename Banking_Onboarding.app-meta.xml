@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#032D60</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Retail KYC and corporate KYB onboarding</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>Banking Onboarding</label>
+    <navType>Standard</navType>
+    <tabs>Onboarding_Home</tabs>
+    <tabs>Application_Entry</tabs>
+    <tabs>Onboarding_Application__c</tabs>
+    <tabs>Onboarding_Party__c</tabs>
+    <tabs>Onboarding_Document__c</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>

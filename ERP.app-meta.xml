@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0B7A5C</headerColor>
+        <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
+    </brand>
+    <description>Levarus Salesforce ERP for items, inventory, sales, purchases, accounting, AI drafting, and spoken walkthroughs.</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>true</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>true</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>true</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>Levarus Salesforce ERP</label>
+    <navType>Standard</navType>
+    <tabs>ERP</tabs>
+    <tabs>ERP_Item__c</tabs>
+    <tabs>ERP_Customer__c</tabs>
+    <tabs>ERP_Document__c</tabs>
+    <tabs>ERP_Expense__c</tabs>
+    <tabs>ERP_Recurring_Expense__c</tabs>
+    <tabs>ERP_Recurring_Bill__c</tabs>
+    <tabs>ERP_Payment__c</tabs>
+    <tabs>ERP_Project__c</tabs>
+    <tabs>ERP_Project_Task__c</tabs>
+    <tabs>ERP_Timesheet__c</tabs>
+    <tabs>ERP_Journal__c</tabs>
+    <tabs>ERP_Journal_Line__c</tabs>
+    <tabs>ERP_Ledger__c</tabs>
+    <tabs>ERP_Budget__c</tabs>
+    <tabs>ERP_Period__c</tabs>
+    <tabs>ERP_Stock_Move__c</tabs>
+    <tabs>ERP_FX_Rate__c</tabs>
+    <tabs>ERP_File__c</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>

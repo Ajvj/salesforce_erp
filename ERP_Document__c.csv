@@ -1,0 +1,42 @@
+"Id","OwnerId","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","LastViewedDate","LastReferencedDate","AI_Email_Draft__c","AI_Summary__c","Accounts_Receivable__c","Add_Adjustments__c","Add_Shipping__c","Adjustment__c","Attachment_Name__c","Customer_Name__c","Customer_Notes__c","Delivery_Method__c","Discount_Level__c","Discount_Percent__c","Doc_Date__c","Document_Type__c","Due_Date__c","Expected_Shipment_Date__c","Expiry_Date__c","Give_Discounts__c","Line_Items_JSON__c","Order_Number__c","Payment_Terms__c","Project_Name__c","Reference__c","Rounding__c","Salesperson__c","Status__c","Sub_Total__c","Subject__c","Tax_Amount__c","Tax_For_Subscriptions__c","Tax_Name__c","Tax_Type__c","Terms_Conditions__c","Total__c"
+"a0HjV000000EUr3UAG","005jV000001Q7q5QAC","false","QT-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:38:25.000Z","005jV000001Q7q5QAC","2026-09-15T10:38:25.000Z","","","","","Trade receivable","true","false","0.0","","Acme Traders","**Note 1:**
+
+Dear Acme Traders,
+
+I hope this message finds you well. We are interested in obtaining a quote for your products, as we are considering a potential order. Could you please provide us with the pricing details, including any bulk purchase discounts and lead times? 
+
+Thank you for your assistance. We look forward to your prompt response.
+
+Best regards,  
+[Your Name]  
+[Your Company]  
+
+---
+
+**Note 2:**
+
+Dear Acme Traders,
+
+I trust you are doing well. We are currently evaluating suppliers for our upcoming project and would greatly appreciate it if you could send us a detailed quote for your offerings. Specifically, we are interested in pricing, availability, and any terms of service you may have.
+
+Thank you for your attention to this matter. We look forward to hearing from you soon.
+
+Sincerely,  
+[Your Name]  
+[Your Company]","","transaction","0.0","2026-09-03","Quote","","","","true","[{""taxPercent"":18,""hsn"":""8479"",""amount"":45000,""rate"":4500,""qty"":10,""details"":""Finished kit""}]","","30 days","","","none","","Sent","45000.0","Quote for Acme Traders","0.0","true","","TDS","1. **Validity Period**: The quoted prices are valid for 30 days from the date of issuance and may be subject to change thereafter.
+
+2. **Payment Terms**: A 50% advance payment is required upon acceptance of the quote, with the remaining balance due upon project completion or delivery.
+
+3. **Scope of Work**: The quote covers only the services and products explicitly mentioned; any additional requests or changes may incur extra charges.
+
+4. **Cancellation Policy**: Cancellations must be made in writing within 7 days of acceptance; a cancellation fee may apply based on the work completed up to that point.","45000.0"
+"a0HjV000000EUr4UAG","005jV000001Q7q5QAC","false","SO-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Acme Traders","","","","","2026-09-07","Sales Order","","","","true","[{""taxPercent"":18,""hsn"":""8479"",""amount"":45000,""rate"":4500,""qty"":10,""details"":""Finished kit""}]","","30 days","","","","","Sent","45000.0","Sales Order for Acme Traders","8100.0","true","","","","53100.0"
+"a0HjV000000EUr5UAG","005jV000001Q7q5QAC","false","TI-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Acme Traders","","","","","2026-09-10","Invoice","","","","true","[{""taxPercent"":18,""hsn"":""8479"",""amount"":45000,""rate"":4500,""qty"":10,""details"":""Finished kit""}]","","30 days","","","","","Sent","45000.0","Invoice for Acme Traders","8100.0","true","","","","53100.0"
+"a0HjV000000EUr6UAG","005jV000001Q7q5QAC","false","TI-00002","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Harbor Goods Pvt Ltd","","","","","2026-09-15","Invoice","","","","true","[{""taxPercent"":18,""hsn"":""9987"",""amount"":8000,""rate"":8000,""qty"":1,""details"":""Installation visit""}]","","30 days","","","","","Draft","8000.0","Invoice for Harbor Goods Pvt Ltd","1440.0","true","","","","9440.0"
+"a0HjV000000EUr7UAG","005jV000001Q7q5QAC","false","CN-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Acme Traders","","","","","2026-09-14","Credit Note","","","","true","[{""taxPercent"":18,""hsn"":""8538"",""amount"":1200,""rate"":1200,""qty"":1,""details"":""Spare pack""}]","","30 days","","","","","Sent","1200.0","Credit Note for Acme Traders","216.0","true","","","","1416.0"
+"a0HjV000000EUr8UAG","005jV000001Q7q5QAC","false","DC-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Acme Traders","","","","","2026-09-11","Delivery Challan","","","","true","[{""taxPercent"":18,""hsn"":""8479"",""amount"":45000,""rate"":4500,""qty"":10,""details"":""Finished kit""}]","","30 days","","","","","Sent","45000.0","Delivery Challan for Acme Traders","0.0","true","","","","45000.0"
+"a0HjV000000EUr9UAG","005jV000001Q7q5QAC","false","RI-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Harbor Goods Pvt Ltd","","","","","2026-08-26","Recurring Invoice","","","","true","[{""taxPercent"":18,""hsn"":""9987"",""amount"":8000,""rate"":8000,""qty"":1,""details"":""Installation visit""}]","","30 days","","","","","Sent","8000.0","Recurring Invoice for Harbor Goods Pvt Ltd","1440.0","true","","","","9440.0"
+"a0HjV000000EUrAUAW","005jV000001Q7q5QAC","false","PO-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Nila Supplies","","","","","2026-09-05","Purchase Order","","","","true","[{""taxPercent"":18,""hsn"":""8538"",""amount"":6000,""rate"":600,""qty"":10,""details"":""Spare pack""}]","","30 days","","","","","Sent","6000.0","Purchase Order for Nila Supplies","1080.0","true","","","","7080.0"
+"a0HjV000000EUrBUAW","005jV000001Q7q5QAC","false","BILL-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Nila Supplies","","","","","2026-09-09","Vendor Bill","","","","true","[{""taxPercent"":18,""hsn"":""8538"",""amount"":6000,""rate"":600,""qty"":10,""details"":""Spare pack""}]","","30 days","","","","","Sent","6000.0","Vendor Bill for Nila Supplies","1080.0","true","","","","7080.0"
+"a0HjV000000EUrCUAW","005jV000001Q7q5QAC","false","GR-00001","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Nila Supplies","","","","","2026-09-09","Goods Receipt","","","","true","[{""taxPercent"":18,""hsn"":""8538"",""amount"":6000,""rate"":600,""qty"":10,""details"":""Spare pack""}]","","30 days","","","","","Sent","6000.0","Goods Receipt for Nila Supplies","0.0","true","","","","6000.0"
+"a0HjV000000EUrDUAW","005jV000001Q7q5QAC","false","QT-00002","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","005jV000001Q7q5QAC","2026-09-15T10:36:23.000Z","","","","","Trade receivable","true","false","","","Harbor Goods Pvt Ltd","","","","","2026-09-12","Quote","","","","true","[{""taxPercent"":18,""hsn"":""4820"",""amount"":18000,""rate"":450,""qty"":40,""details"":""Notebook""}]","","30 days","","","","","Sent","18000.0","Quote for Harbor Goods Pvt Ltd","3240.0","true","","","","21240.0"

@@ -1,0 +1,54 @@
+"Id","IsDeleted","Name","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","LastViewedDate","LastReferencedDate","Application__c","Content_Document_Id__c","Document_Type__c","Extracted_Expiry__c","Extracted_Id_Number__c","Extracted_Name__c","File_Name__c","OCR_Extracted_Text__c","OCR_Raw_JSON__c","OCR_Status__c","Party__c"
+"a03jV000008bcJRQAY","false","DOC-00008","2026-09-10T10:45:39.000Z","005jV000001Q7q5QAC","2026-09-10T10:45:39.000Z","005jV000001Q7q5QAC","2026-09-10T10:45:39.000Z","","","a02jV000001UrntQAC","069jV0000018j2cQAA","Passport","2036-04-26","AS358873","Harini Ainy","Passport&PAN.pdf","D Haning
+TUIT/ REPUBLIC OF INDIA
+стеч / Туре
+#TE / Code.
+IND
+uefiant | Nanomainy
+HRAE /INDIAN
+34-P5 / Surname
+DHAYALAN
+PeT +741 -74/ Given Name(s)
+HARINI
+oprfafla / Date of Birth
+01/07/2003
+GH FuT/ Place of Birth
+HOSUR, TAMIL NADU
+ORT aSeA SEI PeTP/ Place ofissue
+CHENNAI
+arêt ari d fefa/ Date of issue
+27/04/2026
+apena di ffr / Date of Expity
+26/04/2036
+PaRT / Sex
+F
+AS358873
+PKINDDHAYALAN<<HARINI<<<<<<<<<<<<<<<<<<<<<<<
+AS358873<2IND0307019F36042693066696453426<28
+apas ar -179/ Name of Father / Legal Guardian
+AS35887
+DHAYALAN
+4T8I 87 45/ Name of Mother
+KALAIVANI
+viê ar gel aT 4/ Name of Spouse
+D NO 6,PHASE 2, NEAR ADHIYAMAN COLLEGE
+VALLALAR NAGAR,HOSUR, KRISHNAGIRI
+PIN:635109, TAMIL NADU, INDIA
+Sortes e e e a pe Passo No. with Date and Place of Issue
+R/ File No.
+MA3066696453426
+INCOME TAX DEPARTMENT
+HRA TOR
+GOVT. OF INDIA
+Permanent Account Number Card
+BJRPH7386F
+7ТH / Name
+HARINI
+A 2 / Father's Name
+DHAYALAN
+20072021
+Date of Birth
+01/07/2003
+A Haunf
+8HITe / Signature
+Passport&PAN.pdf","{""ParsedResults"":[{""TextOverlay"":{""Lines"":[],""HasOverlay"":false,""Message"":""Text overlay is not provided as it is not requested""},""TextOrientation"":""0"",""FileParseExitCode"":1,""ParsedText"":""D Haning\nTUIT/ REPUBLIC OF INDIA\nстеч / Туре\n#TE / Code.\nIND\nuefiant | Nanomainy\nHRAE /INDIAN\n34-P5 / Surname\nDHAYALAN\nPeT +741 -74/ Given Name(s)\nHARINI\noprfafla / Date of Birth\n01/07/2003\nGH FuT/ Place of Birth\nHOSUR, TAMIL NADU\nORT aSeA SEI PeTP/ Place ofissue\nCHENNAI\narêt ari d fefa/ Date of issue\n27/04/2026\napena di ffr / Date of Expity\n26/04/2036\nPaRT / Sex\nF\nAS358873\nPKINDDHAYALAN<<HARINI<<<<<<<<<<<<<<<<<<<<<<<\nAS358873<2IND0307019F36042693066696453426<28"",""ErrorMessage"":"""",""ErrorDetails"":""""},{""TextOverlay"":{""Lines"":[],""HasOverlay"":false,""Message"":""Text overlay is not provided as it is not requested""},""TextOrientation"":""0"",""FileParseExitCode"":1,""ParsedText"":""apas ar -179/ Name of Father / Legal Guardian\nAS35887\nDHAYALAN\n4T8I 87 45/ Name of Mother\nKALAIVANI\nviê ar gel aT 4/ Name of Spouse\nD NO 6,PHASE 2, NEAR ADHIYAMAN COLLEGE\nVALLALAR NAGAR,HOSUR, KRISHNAGIRI\nPIN:635109, TAMIL NADU, INDIA\nSortes e e e a pe Passo No. with Date and Place of Issue\nR/ File No.\nMA3066696453426"",""ErrorMessage"":"""",""ErrorDetails"":""""},{""TextOverlay"":{""Lines"":[],""HasOverlay"":false,""Message"":""Text overlay is not provided as it is not requested""},""TextOrientation"":""0"",""FileParseExitCode"":1,""ParsedText"":""INCOME TAX DEPARTMENT\nHRA TOR\nGOVT. OF INDIA\nPermanent Account Number Card\nBJRPH7386F\n7ТH / Name\nHARINI\nA 2 / Father's Name\nDHAYALAN\n20072021\nDate of Birth\n01/07/2003\nA Haunf\n8HITe / Signature"",""ErrorMessage"":"""",""ErrorDetails"":""""}],""OCRExitCode"":1,""IsErroredOnProcessing"":false,""ProcessingTimeInMilliseconds"":""2515"",""SearchablePDFURL"":""Searchable PDF not generated as it was not requested.""}","Complete","a04jV000000LthRQAS"

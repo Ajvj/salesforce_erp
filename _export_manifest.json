@@ -1,0 +1,342 @@
+{
+  "org": "engageiq-admin",
+  "objects": [
+    "Account",
+    "Contact",
+    "Lead",
+    "Opportunity",
+    "Case",
+    "Order",
+    "Product2",
+    "Bank_Account__c",
+    "EngageIQ_Audit__c",
+    "EngageIQ_Conversation__c",
+    "EngageIQ_Message__c",
+    "EngageIQ_Page_View__c",
+    "EngageIQ_Theme__c",
+    "EngageIQ_Visitor__c",
+    "EngageIQ_Website__c",
+    "ERP_Budget__c",
+    "ERP_Customer__c",
+    "ERP_Document__c",
+    "ERP_Expense__c",
+    "ERP_File__c",
+    "ERP_FX_Rate__c",
+    "ERP_Item__c",
+    "ERP_Journal__c",
+    "ERP_Journal_Line__c",
+    "ERP_Ledger__c",
+    "ERP_Payment__c",
+    "ERP_Period__c",
+    "ERP_Project__c",
+    "ERP_Project_Task__c",
+    "ERP_Recurring_Bill__c",
+    "ERP_Recurring_Expense__c",
+    "ERP_Stock_Move__c",
+    "ERP_Timesheet__c",
+    "Onboarding_Application__c",
+    "Onboarding_Document__c",
+    "Onboarding_Party__c",
+    "Signature_Document__c",
+    "Signature_Event__c",
+    "Signature_Request__c",
+    "Signature_Signer__c",
+    "Transaction__c"
+  ],
+  "results": [
+    {
+      "object": "Account",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Account.csv",
+      "rows": 46,
+      "bytes": 10965
+    },
+    {
+      "object": "Contact",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Contact.csv",
+      "rows": 50,
+      "bytes": 13716
+    },
+    {
+      "object": "Lead",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Lead.csv",
+      "rows": 22,
+      "bytes": 13286
+    },
+    {
+      "object": "Opportunity",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Opportunity.csv",
+      "rows": 31,
+      "bytes": 15949
+    },
+    {
+      "object": "Case",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Case.csv",
+      "rows": 26,
+      "bytes": 13420
+    },
+    {
+      "object": "Order",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Order.csv",
+      "rows": 0,
+      "bytes": 917
+    },
+    {
+      "object": "Product2",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Product2.csv",
+      "rows": 17,
+      "bytes": 4395
+    },
+    {
+      "object": "Bank_Account__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Bank_Account__c.csv",
+      "rows": 0,
+      "bytes": 216
+    },
+    {
+      "object": "EngageIQ_Audit__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\EngageIQ_Audit__c.csv",
+      "rows": 2,
+      "bytes": 1000
+    },
+    {
+      "object": "EngageIQ_Conversation__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\EngageIQ_Conversation__c.csv",
+      "rows": 0,
+      "bytes": 345
+    },
+    {
+      "object": "EngageIQ_Message__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\EngageIQ_Message__c.csv",
+      "rows": 0,
+      "bytes": 196
+    },
+    {
+      "object": "EngageIQ_Page_View__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\EngageIQ_Page_View__c.csv",
+      "rows": 1,
+      "bytes": 563
+    },
+    {
+      "object": "EngageIQ_Theme__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\EngageIQ_Theme__c.csv",
+      "rows": 1,
+      "bytes": 342
+    },
+    {
+      "object": "EngageIQ_Visitor__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\EngageIQ_Visitor__c.csv",
+      "rows": 1,
+      "bytes": 1080
+    },
+    {
+      "object": "EngageIQ_Website__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\EngageIQ_Website__c.csv",
+      "rows": 1,
+      "bytes": 502
+    },
+    {
+      "object": "ERP_Budget__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Budget__c.csv",
+      "rows": 0,
+      "bytes": 156
+    },
+    {
+      "object": "ERP_Customer__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Customer__c.csv",
+      "rows": 3,
+      "bytes": 2410
+    },
+    {
+      "object": "ERP_Document__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Document__c.csv",
+      "rows": 41,
+      "bytes": 8062
+    },
+    {
+      "object": "ERP_Expense__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Expense__c.csv",
+      "rows": 0,
+      "bytes": 329
+    },
+    {
+      "object": "ERP_File__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_File__c.csv",
+      "rows": 0,
+      "bytes": 156
+    },
+    {
+      "object": "ERP_FX_Rate__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_FX_Rate__c.csv",
+      "rows": 0,
+      "bytes": 156
+    },
+    {
+      "object": "ERP_Item__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Item__c.csv",
+      "rows": 4,
+      "bytes": 1995
+    },
+    {
+      "object": "ERP_Journal__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Journal__c.csv",
+      "rows": 1,
+      "bytes": 391
+    },
+    {
+      "object": "ERP_Journal_Line__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Journal_Line__c.csv",
+      "rows": 0,
+      "bytes": 175
+    },
+    {
+      "object": "ERP_Ledger__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Ledger__c.csv",
+      "rows": 22,
+      "bytes": 5506
+    },
+    {
+      "object": "ERP_Payment__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Payment__c.csv",
+      "rows": 0,
+      "bytes": 156
+    },
+    {
+      "object": "ERP_Period__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Period__c.csv",
+      "rows": 0,
+      "bytes": 156
+    },
+    {
+      "object": "ERP_Project__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Project__c.csv",
+      "rows": 0,
+      "bytes": 290
+    },
+    {
+      "object": "ERP_Project_Task__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Project_Task__c.csv",
+      "rows": 0,
+      "bytes": 190
+    },
+    {
+      "object": "ERP_Recurring_Bill__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Recurring_Bill__c.csv",
+      "rows": 0,
+      "bytes": 353
+    },
+    {
+      "object": "ERP_Recurring_Expense__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Recurring_Expense__c.csv",
+      "rows": 0,
+      "bytes": 341
+    },
+    {
+      "object": "ERP_Stock_Move__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Stock_Move__c.csv",
+      "rows": 0,
+      "bytes": 156
+    },
+    {
+      "object": "ERP_Timesheet__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\ERP_Timesheet__c.csv",
+      "rows": 0,
+      "bytes": 169
+    },
+    {
+      "object": "Onboarding_Application__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Onboarding_Application__c.csv",
+      "rows": 13,
+      "bytes": 3297
+    },
+    {
+      "object": "Onboarding_Document__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Onboarding_Document__c.csv",
+      "rows": 53,
+      "bytes": 3621
+    },
+    {
+      "object": "Onboarding_Party__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Onboarding_Party__c.csv",
+      "rows": 8,
+      "bytes": 2502
+    },
+    {
+      "object": "Signature_Document__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Signature_Document__c.csv",
+      "rows": 2,
+      "bytes": 785
+    },
+    {
+      "object": "Signature_Event__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Signature_Event__c.csv",
+      "rows": 3,
+      "bytes": 1121
+    },
+    {
+      "object": "Signature_Request__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Signature_Request__c.csv",
+      "rows": 1,
+      "bytes": 697
+    },
+    {
+      "object": "Signature_Signer__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Signature_Signer__c.csv",
+      "rows": 1,
+      "bytes": 729
+    },
+    {
+      "object": "Transaction__c",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\Transaction__c.csv",
+      "rows": 0,
+      "bytes": 272
+    },
+    {
+      "object": "User",
+      "status": "ok",
+      "file": "C:\\Users\\ajays\\OneDrive\\Desktop\\salesforce_erp\\salesforce_erp\\data\\exports\\User.csv",
+      "rows": 15,
+      "bytes": 3602
+    }
+  ]
+}
