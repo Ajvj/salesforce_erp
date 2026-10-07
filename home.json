@@ -1,0 +1,46 @@
+{
+  "appPageId" : "b69a235d-b4a5-4993-a364-6eb00e4bf15f",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "b85ce16a-d147-4d04-ae8a-961117e55d16",
+  "label" : "Home",
+  "regions" : [ {
+    "id" : "79f762f8-5851-49fe-8b93-50071c11f59f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : { },
+      "componentName" : "c:retailApplicationEntry",
+      "id" : "3f8a1c2e-9b4d-4e71-a6c8-1d2e3f4a5b6c",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "32e3bb65-92f8-43ff-8e46-08e0c83d647c",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "0839d457-2295-47bc-910f-35d1ab9b440d",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "Retail customer onboarding",
+        "title" : "Customer Onboarding"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "132da7a2-7449-49b9-b326-b0ab9cb00836",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "75029762-009d-4391-980f-980b42140156",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}
